@@ -2,6 +2,7 @@
 Main objective of this project to build a model to find out which drug might be appropriate for a future patient with the same illness.
 
 **Problem Statment**
+
 We have collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug C, Drug X and Y.
 
 Part of our job is to build a model to find out which drug might be appropriate for a future patient with the same illness. The features of this dataset are Age, Sex, Blood Pressure, and the Cholesterol of the patients, and the target is the drug that each patient responded to.
@@ -20,11 +21,12 @@ For example, the instance (Outlook = Rain, Temperature = Hot, Humidity = High, W
 
 
 **Steps Involved**
-About the dataset
-Downloading the Data
-Pre-processing
-Setting up the Decision Tree
-Modeling
-Prediction
-Evaluation
-Visualization
+
+1. About the dataset
+2. Downloading the Data
+3. Pre-processing
+4. Setting up the Decision Tree
+5. Modeling
+6. Prediction
+7. Evaluation
+8. Visualization
